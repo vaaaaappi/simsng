@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(140, 140, 160);
+	font-family: "Courier New";
+	color: white;
+	height: 100%;
+	margin: 0;
+}
+
+#img1 {
+	width: 30%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 1s;
+}
+
+#img1:hover {
+	width: 35%;
+}
+
+h2 {
+	text-align: center;
+}
+
+header {
+	text-align: center;
+	text-decoration: underline;
+}
+
+ul {
+	text-align: center;
+	decoration: none;
+}
+
+#boxi {
+	text-align: center;
+	margin: auto;
+	width: 30%;
+	padding: 10px;
+}
+
+footer {
+	bottom: 0;
+	text-align: center;
+	float: bottom;
+}
+
+#left {
+	text-align: left;
+}
